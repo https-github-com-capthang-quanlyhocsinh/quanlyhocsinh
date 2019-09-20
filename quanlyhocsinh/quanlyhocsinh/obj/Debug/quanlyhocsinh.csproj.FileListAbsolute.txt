@@ -1,0 +1,12 @@
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.csprojAssemblyReference.cache
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.Form1.resources
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.Formgiaovien.resources
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.Formhocsinh.resources
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.Properties.Resources.resources
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.csproj.GenerateResource.cache
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.csproj.CoreCompileInputs.cache
+I:\c#\quanlyhocsinh\quanlyhocsinh\bin\Debug\quanlyhocsinh.exe.config
+I:\c#\quanlyhocsinh\quanlyhocsinh\bin\Debug\quanlyhocsinh.exe
+I:\c#\quanlyhocsinh\quanlyhocsinh\bin\Debug\quanlyhocsinh.pdb
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.exe
+I:\c#\quanlyhocsinh\quanlyhocsinh\obj\Debug\quanlyhocsinh.pdb
